@@ -142,4 +142,5 @@ Open `http://localhost:5500` in your web browser.
 &copy; 2026 **Kavish A M**. All rights reserved. CodeAlpha Technical Internship Project.
 #   k a v i s h - a - m . g i t h u b . i o  
  #   k a v i s h - a - m . g i t h u b . i o  
+ #   k a v i s h - a - m . g i t h u b . i o  
  
